@@ -3,7 +3,6 @@
   AluraBooks é um projeto criado durante um curso da plataforma Alura, com o objetivo de auxiliar no aprendizado de desenvolvimento WEB utilizando a linguagem JavaScript focado nos métodos Array, sendo uma página WEB de uma loja de livros, onde você pode filtrar os livros por assunto, onde mostra quais livros não tem em estoque deixando a imagem desfocada.
   
   ![print da imagem](https://github.com/GABRIEL-ASSYS/Metodos-Array-JS/blob/main/imagens/print1.png)
-  ![print da imagem](https://github.com/GABRIEL-ASSYS/Metodos-Array-JS/blob/main/imagens/print2.png)
   
 ## 🚀 Começando
 
